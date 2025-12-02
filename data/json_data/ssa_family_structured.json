@@ -1,0 +1,54 @@
+{
+  "url": "https://www.ssa.gov/family",
+  "title": "Family benefits | SSA",
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [],
+      "link": "https://www.ssa.gov/apply?benefits=family_adult&age=adult"
+    },
+    {
+      "heading": "Who can get Family benefits",
+      "paragraphs": [
+        "Spouses, ex-spouses, children, and some grandchildren may be eligible for Family benefits. We consider age, marital status, and other factors when we determine eligibility."
+      ],
+      "link": "https://www.ssa.gov/family/eligibility"
+    },
+    {
+      "heading": "What you could get",
+      "paragraphs": [
+        "You could get up to half of your family member’s benefit amount and may be eligible for Medicare based on their work history."
+      ],
+      "link": "https://www.ssa.gov/family/amount"
+    },
+    {
+      "heading": "What you need to report",
+      "paragraphs": [
+        "To make sure you get the right payments, tell us about updates, like marriage, school, and income changes."
+      ],
+      "link": "https://www.ssa.gov/family/reporting"
+    }
+  ],
+  "subpages": [
+    {
+      "url": "https://www.ssa.gov/family/reporting",
+      "title": "What to report if you get Family benefits | SSA",
+      "sections": [
+        {
+          "heading": "Report changes to your personal information",
+          "paragraphs": [
+            "Learn how to update:"
+          ],
+          "link": "https://www.ssa.gov/manage-benefits/update-direct-deposit"
+        },
+        {
+          "heading": "Request to keep benefits when a child turns 18",
+          "paragraphs": [
+            "If a child turns age 18 and is still in school (K–12), use the Advance Notice of Termination of Child's Benefits (Form SSA-1372) (PDF) to ask to keep their benefits."
+          ],
+          "link": "https://www.ssa.gov/forms/ssa-1372.pdf"
+        }
+      ]
+    }
+  ]
+}

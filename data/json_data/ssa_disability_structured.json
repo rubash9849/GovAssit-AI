@@ -1,0 +1,129 @@
+{
+  "url": "https://www.ssa.gov/disability",
+  "title": "Disability | SSA",
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [],
+      "list_items": [],
+      "link": "https://www.ssa.gov/apply?benefits=disability&age=adult"
+    },
+    {
+      "heading": "Who can get Disability",
+      "paragraphs": [
+        "Individuals may be eligible for Disability if they have:",
+        "See if you might be eligible for Disability"
+      ],
+      "list_items": [
+        "A disability or blindness, and",
+        "Enough work history."
+      ],
+      "link": "https://www.ssa.gov/disability/eligibility"
+    },
+    {
+      "heading": "What you could get",
+      "paragraphs": [
+        "Your benefits may include a monthly payment and Medicare. Your payment amount is based on your work history before your disability began.",
+        "See what you could get from Disability"
+      ],
+      "list_items": [],
+      "link": "https://www.ssa.gov/disability/amount"
+    },
+    {
+      "heading": "Try returning to work without losing Disability",
+      "paragraphs": [
+        "You may be able to return to work or continue working without losing your Disability benefits.",
+        "Learn about returning to work"
+      ],
+      "list_items": [],
+      "link": "https://www.ssa.gov/disability/work"
+    },
+    {
+      "heading": "What you need to report",
+      "paragraphs": [
+        "Once you’re approved for Disability, you must report changes to your work, income, and personal information.",
+        "See what you need to report"
+      ],
+      "list_items": [],
+      "link": "https://www.ssa.gov/disability/reporting"
+    },
+    {
+      "heading": "Get Disability back if your benefit ended",
+      "paragraphs": [
+        "If your Disability benefit ended, you might be able to restart it later.",
+        "Learn how to restart your benefit"
+      ],
+      "list_items": [],
+      "link": "https://www.ssa.gov/disability/restart"
+    }
+  ],
+  "subpages": [
+    {
+      "url": "https://www.ssa.gov/disability/reporting",
+      "title": "What you must report while on Disability | SSA",
+      "sections": [
+        {
+          "heading": "Report changes to your work and income",
+          "paragraphs": [
+            "Let us know right away if your work status or income changes, or if there’s a big improvement in your medical condition.",
+            "Report work and income changes"
+          ],
+          "list_items": [],
+          "link": "https://www.ssa.gov/disability/reporting/wages"
+        },
+        {
+          "heading": "Tell us about changes to your personal record",
+          "paragraphs": [
+            "Update the following to make sure you get timely and accurate payments:"
+          ],
+          "list_items": [
+            "Direct deposit account",
+            "Contact information",
+            "Citizenship and immigration status"
+          ],
+          "link": "https://www.ssa.gov/manage-benefits/update-direct-deposit"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ssa.gov/disability/restart",
+      "title": "Get Disability back if your benefit ended | SSA",
+      "sections": [
+        {
+          "heading": "",
+          "paragraphs": [
+            "If your Disability benefit ended because you returned to work and have been earning above the limits for too long, you might be able to restart it later if needed."
+          ],
+          "list_items": [],
+          "link": "https://www.ssa.gov/disability/work"
+        },
+        {
+          "heading": "Within 5 years of your benefits ending",
+          "paragraphs": [
+            "Call us and tell the representative you want to file for “expedited reinstatement” of your Disability benefit. You’ll answer a series of questions but won't need to file a new application. You might also get benefits for up to 6 months while we review your request.",
+            "Call +1 800-772-1213\nCall TTY +1 800-325-0778 if you're deaf or hard of hearing.",
+            "Available in most U.S. time zones Monday through Friday, 8 a.m. to 7 p.m., in English, Spanish, and other languages."
+          ],
+          "list_items": [],
+          "link": "tel:+1-800-772-1213"
+        },
+        {
+          "heading": "After 5 years of your benefit ending",
+          "paragraphs": [
+            "You’ll need to file a new application to get back on Disability."
+          ],
+          "list_items": [],
+          "link": "https://secure.ssa.gov/iClaim/dib"
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            "You’ll need to file a new application to get back on Disability."
+          ],
+          "list_items": [],
+          "link": "https://secure.ssa.gov/iClaim/dib"
+        }
+      ]
+    }
+  ]
+}

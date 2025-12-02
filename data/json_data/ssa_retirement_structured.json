@@ -1,0 +1,90 @@
+{
+  "url": "https://www.ssa.gov/retirement",
+  "title": "Retirement benefits | SSA",
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [],
+      "link": "https://www.ssa.gov/apply?benefits=retirement&age=adult"
+    },
+    {
+      "heading": "Plan for Retirement",
+      "paragraphs": [
+        "Estimate your benefit amount, determine when to apply, and explore other factors that may affect your retirement planning."
+      ],
+      "link": "https://www.ssa.gov/retirement/plan-for-retirement"
+    },
+    {
+      "heading": "Time your first payment",
+      "paragraphs": [
+        "Learn how to time your application so your first benefit payment arrives when you want it."
+      ],
+      "link": "https://www.ssa.gov/retirement/timing-first-payment"
+    },
+    {
+      "heading": "Report changes",
+      "paragraphs": [
+        "Report changes to your earnings if you're working before Full Retirement Age (between age 66 and 67), and share any other changes to your situation."
+      ],
+      "link": "https://www.ssa.gov/retirement/full-retirement-age"
+    },
+    {
+      "heading": "Explore Retirement options from family members’ work",
+      "paragraphs": [
+        "You might qualify for Family or Survivor benefits based on a family member’s work. These benefits could start before age 62. If you're entitled to more than 1 benefit, you'll get the one that gives you the highest payment."
+      ],
+      "link": "https://www.ssa.gov/family"
+    }
+  ],
+  "subpages": [
+    {
+      "url": "https://www.ssa.gov/retirement/plan-for-retirement",
+      "title": "Plan for Retirement | SSA",
+      "sections": [
+        {
+          "heading": "Paying for healthcare",
+          "paragraphs": [
+            "If you're getting Medicare Part B (medical insurance), the cost will be taken out of your monthly benefit. Determine when to sign up for Medicare."
+          ],
+          "link": "https://www.ssa.gov/medicare/plan/when-to-sign-up"
+        },
+        {
+          "heading": "Withholding taxes from benefit payments",
+          "paragraphs": [
+            "You may owe taxes on your benefits. You can pay the IRS directly or have taxes withheld. See if you owe taxes and request to have them withheld."
+          ],
+          "link": "https://www.ssa.gov/manage-benefits/request-withhold-taxes"
+        },
+        {
+          "heading": "Continuing to work",
+          "paragraphs": [
+            "Before Full Retirement Age (between age 66 and 67), we'll withhold part of your benefit if you work and earn over the annual earnings limit. At Full Retirement Age, we'll increase your monthly amount to account for the months you didn't get a check from us.",
+            "After Full Retirement Age, you can earn any amount with no benefits withheld."
+          ],
+          "link": "https://www.ssa.gov/retirement/full-retirement-age"
+        },
+        {
+          "heading": "Jobs with specific rules",
+          "paragraphs": [
+            "Some jobs also follow special rules that may impact how we calculate your benefits. See how these rules could affect your benefit payment.",
+            "We no longer reduce your benefits because of pensions from jobs that didn’t pay into Social Security. Learn more about this change."
+          ],
+          "link": "https://www.ssa.gov/prepare/special-earnings"
+        },
+        {
+          "heading": "",
+          "paragraphs": [
+            "If you’re eligible for Family or Survivor benefits, your benefit amount is highest at Full Retirement Age. It doesn’t increase if you wait and apply later.",
+            "Learn more about Family and Survivor benefits."
+          ],
+          "link": "https://www.ssa.gov/family"
+        },
+        {
+          "heading": "",
+          "paragraphs": [],
+          "link": "https://www.ssa.gov/apply?benefits=retirement&age=adult"
+        }
+      ]
+    }
+  ]
+}

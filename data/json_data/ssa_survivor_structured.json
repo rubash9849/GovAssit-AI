@@ -1,0 +1,61 @@
+{
+  "url": "https://www.ssa.gov/survivor",
+  "title": "Survivor benefits | SSA",
+  "sections": [
+    {
+      "heading": "",
+      "paragraphs": [],
+      "link": "https://www.ssa.gov/apply?benefits=survivor_adult&age=adult"
+    },
+    {
+      "heading": "Who can get Survivor benefits",
+      "paragraphs": [
+        "You may qualify if you’re the spouse, divorced spouse, child, or dependent parent of someone who worked and paid Social Security taxes before they died."
+      ],
+      "link": "https://www.ssa.gov/survivor/eligibility"
+    },
+    {
+      "heading": "What you could get",
+      "paragraphs": [
+        "You could get a monthly payment and may be eligible for Medicare based on the work history of the family member who died."
+      ],
+      "link": "https://www.ssa.gov/survivor/amount"
+    },
+    {
+      "heading": "What to report if you get Survivor benefits",
+      "paragraphs": [
+        "Once you’re approved for Survivor benefits, you must report changes to your work, income, and personal information."
+      ],
+      "link": "https://www.ssa.gov/survivor/reporting"
+    },
+    {
+      "heading": "When to report a death",
+      "paragraphs": [
+        "A funeral home will usually tell us when someone dies, so you may not need to report a death to us."
+      ],
+      "link": "https://www.ssa.gov/personal-record/when-someone-dies"
+    }
+  ],
+  "subpages": [
+    {
+      "url": "https://www.ssa.gov/survivor/reporting",
+      "title": "What to report if you get Survivor benefits | SSA",
+      "sections": [
+        {
+          "heading": "Report changes to your personal information",
+          "paragraphs": [
+            "Learn how to update:"
+          ],
+          "link": "https://www.ssa.gov/manage-benefits/update-direct-deposit"
+        },
+        {
+          "heading": "Request to keep benefits when a child turns 18",
+          "paragraphs": [
+            "If a child turns age 18 and is still in school (K–12), use the Advance Notice of Termination of Child's Benefits (Form SSA-1372) (PDF) to ask to keep their benefits."
+          ],
+          "link": "https://www.ssa.gov/forms/ssa-1372.pdf"
+        }
+      ]
+    }
+  ]
+}

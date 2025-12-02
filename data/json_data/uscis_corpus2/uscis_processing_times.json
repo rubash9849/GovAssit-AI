@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "source": "uscis.gov processing times",
+    "scraped_at": "2025-10-25T02:13:35.174550",
+    "total_pages": 1
+  },
+  "pages": [
+    {
+      "type": "processing_times",
+      "title": "Page Not Found",
+      "url": "https://www.uscis.gov/forms/filing-guidance/check-processing-times",
+      "content": "Page Not Found\nThese tips can help you find what you are looking for:\nCheck the URL (web address) for proper spelling and completeness;\nUse our\nA-Z Index\nor\nSite Map\n;\nType what you are looking for in the “Search our Site” box near the top of this page; or,\nAsk Emma, our virtual assistant, when she appears.\nIf you reached this page from another website, (for example, travel.state.gov) report the link you clicked on to that website’s owner. You may need to go to the “Contact Us” page of that website to find where to report the broken link.\nTo report a broken link on\nwww.uscis.gov\n, please send an email to our\nUSCIS webmaster\nwith the following information:\nLocation or page URL of the broken link (for example,\nwww.uscis.gov/citizenship\n);\nLink title; and,\nScreen shot of the page that shows the broken link.\nWas this page helpful?\nYes\nNo\nThis page was not helpful because the content:\nSelect a reason\nhas too little information\nhas too much information\nis confusing\nis out of date\nother\nHow can the content be improved?\n0\n/ 2000\nTo protect your privacy, please do not include any personal information in your feedback. Review our\nPrivacy Policy\n.",
+      "scraped_at": "2025-10-25T02:13:35.174550"
+    }
+  ]
+}
